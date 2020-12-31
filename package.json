@@ -1,0 +1,23 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "simple notes app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhammadHasbiAshshiddieqy/Notes-App.git"
+  },
+  "author": "Muhammad Hasbi Ashshiddieqy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuhammadHasbiAshshiddieqy/Notes-App/issues"
+  },
+  "homepage": "https://github.com/MuhammadHasbiAshshiddieqy/Notes-App#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "yargs": "^16.2.0"
+  }
+}
